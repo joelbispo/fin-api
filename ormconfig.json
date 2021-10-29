@@ -1,6 +1,6 @@
 {
-  "username": "docker",
-  "password": "admin123",
+  "username": "postgres",
+  "password": "docker",
 
   "name": "default",
   "type": "postgres",
@@ -16,6 +16,4 @@
   "cli": {
     "migrationsDir": "./src/database/migrations"
   }
-}
-
-
+}  
